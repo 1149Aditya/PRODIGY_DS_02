@@ -10,8 +10,7 @@ This project performs exploratory data analysis (EDA) on the Titanic dataset. Th
 
 1. Impute missing 'Age' values using the median.
 2. Fill missing 'Fare' values with the median.
-3. ...
-
+   
 ## Feature Engineering:
 
 1. Extract titles from 'Name' and map them to numerical values.
