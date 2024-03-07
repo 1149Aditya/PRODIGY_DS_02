@@ -15,7 +15,7 @@ This project performs exploratory data analysis (EDA) on the Titanic dataset. Th
 
 1. Extract titles from 'Name' and map them to numerical values.
 2. Create a new feature 'FamilySize' combining 'SibSp' and 'Parch'.
-3. ...
+
 
 ## Categorical Encoding:
 
